@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-10"?>
 <projectDescription>
 	<name>SentimentAnalysis</name>
 	<comment></comment>
@@ -6,7 +6,7 @@
 	</projects>
 	<buildSpec>
 		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
+			<name>org.eclipse.jdt.core.javabuilder</name:>
 			<arguments>
 			</arguments>
 		</buildCommand>
